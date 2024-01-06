@@ -83,9 +83,10 @@ const PageContext = ({children}) => {
     },
     about: {
       title: "Sobre ___",
-      p1: "Oi! Tudo bem? Aqui é o Alan, analista de sistemas de Piracicaba/SP com experiência no desenvolvimento de aplicações web utilizando a biblioteca React e arquitetura de microsserviços.",
-      p2: "Sou bacharel em Engenharia Agronômica pela Universidade de São Paulo e atualmente estou cursando graduação tecnológica em Análise e Desenvolvimento de Sistemas (último semestre).",
-      p3: "Atualmente trabalho no Instituto Pecege, uma associação que tem como objetivo compartilhar conhecimento e educação de qualidade. Minha equipe é responsável por gerenciar nossos canais de relacionamento com o cliente, principalmente WhatsApp e chamadas telefônicas, por meio de aplicativos baseados na plataforma Twilio.",
+      p1: "Olá! Como vai?",
+      p2: "Meu nome é Alan, sou um desenvolvedor Full Stack júnior com formação em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho com o desenvolvimento de aplicações web para a área de comunicação e bots, utilizando tecnologias como Reactjs, Nodejs e serviços da plataforma Twilio.",
+      p3: "Além da minha experiência como desenvolvedor, também atuei como analista de negócios. Participei ativamente no processo de desenvolvimento de novas funcionalidades para aplicações, além de estar envolvido na implantação de software para novos clientes.",
+      p4: "Sou graduado em Engenharia Agronômica pela Universidade de São Paulo (ESALQ - USP). Durante meus estudos, tive a oportunidade de receber uma bolsa do programa Ciência Sem Fronteiras para estudar na Universidade de Nebraska - Lincoln, nos Estados Unidos.",
     },
     skills: {
       title: "Minhas Habilidades ___",

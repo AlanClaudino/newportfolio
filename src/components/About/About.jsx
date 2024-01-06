@@ -40,6 +40,7 @@ const About = () => {
             <Text>{language?.about.p1}</Text>
             <Text>{language?.about.p2}</Text>
             <Text>{language?.about.p3}</Text>
+            <Text>{language?.about.p4}</Text>
           </TextContainer>
         </RightContainer>
         <LeftContainer>
