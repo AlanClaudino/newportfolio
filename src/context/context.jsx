@@ -119,6 +119,7 @@ const PageContext = ({children}) => {
     } else {
       setLanguage(PortugueseTheme);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isEnglish]);
 
   const changeLanguage = (newLanguage) => {
